@@ -1,0 +1,201 @@
+Cindex,Data
+0.562189055,Images
+0.595555556,Images
+0.598425197,Images
+0.539267016,Images
+0.485074627,Images
+0.547263682,Images
+0.611111111,Images
+0.57480315,Images
+0.560209424,Images
+0.432835821,Images
+0.55721393,Images
+0.744444444,Images
+0.559055118,Images
+0.570680628,Images
+0.529850746,Images
+0.631840796,Images
+0.7,Images
+0.622047244,Images
+0.544502618,Images
+0.373134328,Images
+0.55721393,Images
+0.7,Images
+0.622047244,Images
+0.602094241,Images
+0.47761194,Images
+0.537313433,Images + Clinical
+0.788888889,Images + Clinical
+0.590551181,Images + Clinical
+0.612565445,Images + Clinical
+0.495522388,Images + Clinical
+0.487562189,Images + Clinical
+0.744444444,Images + Clinical
+0.62992126,Images + Clinical
+0.565445026,Images + Clinical
+0.480597015,Images + Clinical
+0.507462687,Images + Clinical
+0.755555556,Images + Clinical
+0.68503937,Images + Clinical
+0.570680628,Images + Clinical
+0.485074627,Images + Clinical
+0.71,Images + Clinical
+0.480874317,Images + Clinical
+0.531914894,Images + Clinical
+0.634146341,Images + Clinical
+0.597014925,Images + Clinical
+0.68,Images + Clinical
+0.486338798,Images + Clinical
+0.579787234,Images + Clinical
+0.62195122,Images + Clinical
+0.589552239,Images + Clinical
+0.56,Gene Expression
+0.513661202,Gene Expression
+0.457446809,Gene Expression
+0.481707317,Gene Expression
+0.582089552,Gene Expression
+0.51,Gene Expression
+0.49726776,Gene Expression
+0.446808511,Gene Expression
+0.463414634,Gene Expression
+0.582089552,Gene Expression
+0.56,Gene Expression
+0.513661202,Gene Expression
+0.457446809,Gene Expression
+0.481707317,Gene Expression
+0.597014925,Gene Expression
+0.5,Gene Expression
+0.535519126,Gene Expression
+0.473404255,Gene Expression
+0.469512195,Gene Expression
+0.604477612,Gene Expression
+0.58,Gene Expression
+0.49726776,Gene Expression
+0.441489362,Gene Expression
+0.475609756,Gene Expression
+0.552238806,Gene Expression
+0.512820513,Gene Expression + Clinical
+0.693023256,Gene Expression + Clinical
+0.71978022,Gene Expression + Clinical
+0.64516129,Gene Expression + Clinical
+0.465608466,Gene Expression + Clinical
+0.564102564,Gene Expression + Clinical
+0.56744186,Gene Expression + Clinical
+0.384615385,Gene Expression + Clinical
+0.540322581,Gene Expression + Clinical
+0.62962963,Gene Expression + Clinical
+0.403846154,Gene Expression + Clinical
+0.602325581,Gene Expression + Clinical
+0.428571429,Gene Expression + Clinical
+0.524193548,Gene Expression + Clinical
+0.53968254,Gene Expression + Clinical
+0.544871795,Gene Expression + Clinical
+0.602325581,Gene Expression + Clinical
+0.41978022,Gene Expression + Clinical
+0.467741935,Gene Expression + Clinical
+0.46031746,Gene Expression + Clinical
+0.487179487,Gene Expression + Clinical
+0.474418605,Gene Expression + Clinical
+0.707692308,Gene Expression + Clinical
+0.435483871,Gene Expression + Clinical
+0.634920635,Gene Expression + Clinical
+0.782051282,Images + Genes + Clinical (H-VAE-Cox model)
+0.711111111,Images + Genes + Clinical (H-VAE-Cox model)
+0.814606742,Images + Genes + Clinical (H-VAE-Cox model)
+0.626760563,Images + Genes + Clinical (H-VAE-Cox model)
+0.651612903,Images + Genes + Clinical (H-VAE-Cox model)
+0.762820513,Images + Genes + Clinical (H-VAE-Cox model)
+0.718518519,Images + Genes + Clinical (H-VAE-Cox model)
+0.825842697,Images + Genes + Clinical (H-VAE-Cox model)
+0.626760563,Images + Genes + Clinical (H-VAE-Cox model)
+0.638709677,Images + Genes + Clinical (H-VAE-Cox model)
+0.697484277,Images + Genes + Clinical (H-VAE-Cox model)
+0.686299213,Images + Genes + Clinical (H-VAE-Cox model)
+0.701219512,Images + Genes + Clinical (H-VAE-Cox model)
+0.795918367,Images + Genes + Clinical (H-VAE-Cox model)
+0.798850575,Images + Genes + Clinical (H-VAE-Cox model)
+0.726582278,Images + Genes + Clinical (H-VAE-Cox model)
+0.694516129,Images + Genes + Clinical (H-VAE-Cox model)
+0.692178771,Images + Genes + Clinical (H-VAE-Cox model)
+0.805194805,Images + Genes + Clinical (H-VAE-Cox model)
+0.720588235,Images + Genes + Clinical (H-VAE-Cox model)
+0.801282051,Images + Genes + Clinical (H-VAE-Cox model)
+0.691111111,Images + Genes + Clinical (H-VAE-Cox model)
+0.764044944,Images + Genes + Clinical (H-VAE-Cox model)
+0.718309859,Images + Genes + Clinical (H-VAE-Cox model)
+0.696774194,Images + Genes + Clinical (H-VAE-Cox model)
+0.81,Images + Genes + Clinical (X-VAE-Cox model)
+0.739344262,Images + Genes + Clinical (X-VAE-Cox model)
+0.675531915,Images + Genes + Clinical (X-VAE-Cox model)
+0.786585366,Images + Genes + Clinical (X-VAE-Cox model)
+0.753731343,Images + Genes + Clinical (X-VAE-Cox model)
+0.71,Images + Genes + Clinical (X-VAE-Cox model)
+0.633879781,Images + Genes + Clinical (X-VAE-Cox model)
+0.70212766,Images + Genes + Clinical (X-VAE-Cox model)
+0.719512195,Images + Genes + Clinical (X-VAE-Cox model)
+0.753731343,Images + Genes + Clinical (X-VAE-Cox model)
+0.81,Images + Genes + Clinical (X-VAE-Cox model)
+0.710382514,Images + Genes + Clinical (X-VAE-Cox model)
+0.723404255,Images + Genes + Clinical (X-VAE-Cox model)
+0.725609756,Images + Genes + Clinical (X-VAE-Cox model)
+0.76119403,Images + Genes + Clinical (X-VAE-Cox model)
+0.71,Images + Genes + Clinical (X-VAE-Cox model)
+0.704918033,Images + Genes + Clinical (X-VAE-Cox model)
+0.718085106,Images + Genes + Clinical (X-VAE-Cox model)
+0.762195122,Images + Genes + Clinical (X-VAE-Cox model)
+0.696567164,Images + Genes + Clinical (X-VAE-Cox model)
+0.76,Images + Genes + Clinical (X-VAE-Cox model)
+0.693989071,Images + Genes + Clinical (X-VAE-Cox model)
+0.70212766,Images + Genes + Clinical (X-VAE-Cox model)
+0.798780488,Images + Genes + Clinical (X-VAE-Cox model)
+0.753731343,Images + Genes + Clinical (X-VAE-Cox model)
+0.487425989,Images + Genes + Clinical (DCM model)
+0.487425989,Images + Genes + Clinical (DCM model)
+0.591067507,Images + Genes + Clinical (DCM model)
+0.649463611,Images + Genes + Clinical (DCM model)
+0.713100654,Images + Genes + Clinical (DCM model)
+0.713100654,Images + Genes + Clinical (DCM model)
+0.77350287,Images + Genes + Clinical (DCM model)
+0.627649945,Images + Genes + Clinical (DCM model)
+0.534035525,Images + Genes + Clinical (DCM model)
+0.534035525,Images + Genes + Clinical (DCM model)
+0.644634482,Images + Genes + Clinical (DCM model)
+0.6334674,Images + Genes + Clinical (DCM model)
+0.446609536,Images + Genes + Clinical (DCM model)
+0.446609536,Images + Genes + Clinical (DCM model)
+0.541669659,Images + Genes + Clinical (DCM model)
+0.738246558,Images + Genes + Clinical (DCM model)
+0.57643191,Images + Genes + Clinical (DCM model)
+0.57643191,Images + Genes + Clinical (DCM model)
+0.514959329,Images + Genes + Clinical (DCM model)
+0.583581036,Images + Genes + Clinical (DCM model)
+0.57643191,Images + Genes + Clinical (DCM model)
+0.57643191,Images + Genes + Clinical (DCM model)
+0.514959329,Images + Genes + Clinical (DCM model)
+0.583581036,Images + Genes + Clinical (DCM model)
+0.572457441,Images + Genes + Clinical (DCM model)
+0.559006211,Images + Genes + Clinical (Pycox model)
+0.568862275,Images + Genes + Clinical (Pycox model)
+0.512658228,Images + Genes + Clinical (Pycox model)
+0.630573248,Images + Genes + Clinical (Pycox model)
+0.534351145,Images + Genes + Clinical (Pycox model)
+0.72611465,Images + Genes + Clinical (Pycox model)
+0.466666667,Images + Genes + Clinical (Pycox model)
+0.662921348,Images + Genes + Clinical (Pycox model)
+0.548951049,Images + Genes + Clinical (Pycox model)
+0.664516129,Images + Genes + Clinical (Pycox model)
+0.444444444,Images + Genes + Clinical (Pycox model)
+0.738095238,Images + Genes + Clinical (Pycox model)
+0.63253012,Images + Genes + Clinical (Pycox model)
+0.724832215,Images + Genes + Clinical (Pycox model)
+0.5,Images + Genes + Clinical (Pycox model)
+0.458041958,Images + Genes + Clinical (Pycox model)
+0.529411765,Images + Genes + Clinical (Pycox model)
+0.734375,Images + Genes + Clinical (Pycox model)
+0.459119497,Images + Genes + Clinical (Pycox model)
+0.608433735,Images + Genes + Clinical (Pycox model)
+0.559006211,Images + Genes + Clinical (Pycox model)
+0.568862275,Images + Genes + Clinical (Pycox model)
+0.512658228,Images + Genes + Clinical (Pycox model)
+0.630573248,Images + Genes + Clinical (Pycox model)
+0.534351145,Images + Genes + Clinical (Pycox model)

@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['run\\GenerateGeneLatentFeatures.py', 'run\\GenerateImageLatentFeatures.py', 'models\\GenePathwayAutoencoder.py', 'run\\H_VAE_Shap_Interpretation.py', 'run\\RunGeneClinicalCoxModel.py', 'run\\RunHvaeCoxModel.py', 'run\\RunImageClinicalCoxModel.py', 'utils\\DataLoader.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+

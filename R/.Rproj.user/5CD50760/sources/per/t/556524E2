@@ -1,0 +1,26 @@
+{
+    "id": "556524E2",
+    "path": "C:/1.WorkingDrive/Research documents/NSCLC-Survival-Prediction-models/R/Reactome-PathwayEnrichment.R",
+    "project_path": "Reactome-PathwayEnrichment.R",
+    "type": "r_source",
+    "hash": "800843776",
+    "contents": "",
+    "dirty": false,
+    "created": 1636359957278.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "21,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1636363693,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1636363693,
+    "read_only": false,
+    "read_only_alternatives": []
+}

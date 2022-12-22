@@ -1,0 +1,10 @@
+pydicom
+tensorflow==2.6.0
+scikit-survival
+lifelines
+shap
+pickle
+seaborn
+lifelines
+opencv-python
+keras-tuner

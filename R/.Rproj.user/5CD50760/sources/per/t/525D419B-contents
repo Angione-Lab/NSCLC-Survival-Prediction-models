@@ -1,0 +1,28 @@
+library(matrixStats)
+library(tidyr)
+library(ggplot2)
+library(dplyr)
+library(purrr)
+library(ggpubr)
+library(reshape2)
+
+#KEGG Pathway for X-VAE-Cox model
+pathway <- read.csv(file = 'C:\\1.WorkingDrive\\Research documents\\NSCLC-Survival-Prediction-models\\Results\\kegg_pathway\\X-vae-kegg-bar-data.csv')
+
+#KEGG Pathway for H-VAE-Cox model
+#pathway <- read.csv(file = 'C:\\1.WorkingDrive\\Research documents\\NSCLC-Survival-Prediction-models\\Results\\kegg_pathway\\H-Vae-kegg-data.csv')
+
+pathway %>%
+  ggplot(aes(x = reorder(ï..Pathway.name, -Count), y = Count, fill = Benjamini)) +
+  geom_bar(stat = "identity") +  
+  theme_minimal() + 
+  xlab("") + ylab("Top KEGG Pathways ") +
+  theme(panel.border = element_blank(), panel.grid.major = element_blank(),
+        axis.ticks = element_line(),
+        text = element_text(size=14),
+        axis.text.x = element_text(hjust = 1, angle = 90, size = 5),
+        panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
+
+
+
+
