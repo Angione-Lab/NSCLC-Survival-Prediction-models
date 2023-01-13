@@ -1,6 +1,6 @@
 # NSCLC-Survival-Prediction-models
 
-This repository contains the code and data to reproduce the results presented in the paper: S. Verma, G. Magazzù, N. Eftekhari, A. Occhipinti, C. Angione, "Small-sample learning from joint imaging-omics-clinical data of non-small cell lung cancer".
+This repository contains the code and data to reproduce the results presented in the paper: S. Verma, G. Magazzù, N. Eftekhari, A. Occhipinti, C. Angione, "Small-sample deep learning on integrated imaging, omics and clinical data of non-small-cell lung cancer".
 
 H-VAE-Cox and X-VAE-Cox are pathway-guided biologically-interpretable survival prediction models for Non Small Cell Lung Cancer. The survival prediction is performed using radiological images (CT scan images), gene expression and clinical information. 
 
