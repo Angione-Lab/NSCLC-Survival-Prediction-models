@@ -25,4 +25,3 @@ pathway %>%
 
 
 ggsave("C:\\1.workingDirectory\\NSCLCSruvivalPrediction\\Results\\Biological_interpretation\\x_vae_bar_plot.pdf")
-
