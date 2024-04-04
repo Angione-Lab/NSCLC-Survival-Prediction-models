@@ -2,7 +2,7 @@
 
 This repository contains the code and data to reproduce the results presented in the paper: S. Verma, G. Magazzù, N. Eftekhari, A. Occhipinti, C. Angione, "Small-sample deep learning on joint omics-imaging-clinical data of 130 non-small cell lung cancer patients".
 
-H-VAE-Cox and X-VAE-Cox are pathway-guided biologically-interpretable survival prediction models for Non-Small Cell Lung Cancer. The survival prediction is performed using radiological images (CT scan images), gene expression and clinical information. 
+H-VAE-Cox and XAT-VAE-Cox are pathway-guided biologically interpretable survival prediction models for Non-Small Cell Lung Cancer. The survival prediction is performed using radiological images (CT scan images), gene expression and clinical information. 
 
 Radiogenomics (CT scan images and Gene Expression) data along with clinical data are collected from TCIA and GEO. The collected data is then preprocessed. To begin with, the region of interest (ROI) i.e. tumour region is segmented using U-Net, the null values from gene expression data are removed, and the resulting data is normalised. Feature selection is performed on images, gene expression data and clinical data, and common samples from all the datasets are selected to be fed into deep learning models. 
 
@@ -31,13 +31,13 @@ Note: ImageSegmentation can be skipped if you use the pre-processed ROI extracte
 
 Note: While performing SHAP interpretation in Step 3, please make sure the gene expression autoencoder and the image autoencoder from Step 1 are saved as .h5 so that the saved models can be reused.
 
-## For X-VAE-Cox model survival prediction using CT Scan images, gene expression and clinical information ##
+## For XAT-VAE-Cox model survival prediction using CT Scan images, gene expression and clinical information ##
 Step 1: Run [run/RunXVaeCoxModel.py](https://github.com/Angione-Lab/NSCLC-Survival-Prediction-models/blob/main/run/RunXVaeCoxModel.py) for survival prediction and SHAP interpretation.
 
-## For X-VAE-Cox model survival prediction using CT scan images and clinical information ##
+## For XAT-VAE-Cox model survival prediction using CT scan images and clinical information ##
 Step: Run [run/RunImageClinicalCoxModel.py] (https://github.com/Angione-Lab/NSCLC-Survival-Prediction-models/blob/main/run/RunImageClinicalCoxModel.py)
 
-## For X-VAE-Cox model survival prediction using Gene Expression and clinical information ##
+## For XAT-VAE-Cox model survival prediction using Gene Expression and clinical information ##
 Step: [run/RunGeneClinicalCoxModel.py] (https://github.com/Angione-Lab/NSCLC-Survival-Prediction-models/blob/main/run/RunGeneClinicalCoxModel.py)
 
 ## Plots ##
