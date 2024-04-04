@@ -1,0 +1,326 @@
+Cindex,Data,Dataset
+0.64,CL,NSCLC-Radiogenomics
+0.578378,CL,NSCLC-Radiogenomics
+0.5025,CL,NSCLC-Radiogenomics
+0.7,CL,NSCLC-Radiogenomics
+0.5,CL,NSCLC-Radiogenomics
+0.31,CL,NSCLC-Radiogenomics
+0.481081,CL,NSCLC-Radiogenomics
+0.5575,CL,NSCLC-Radiogenomics
+0.511111,CL,NSCLC-Radiogenomics
+0.65,CL,NSCLC-Radiogenomics
+0.63,CL,NSCLC-Radiogenomics
+0.567568,CL,NSCLC-Radiogenomics
+0.6075,CL,NSCLC-Radiogenomics
+0.611111,CL,NSCLC-Radiogenomics
+0.557143,CL,NSCLC-Radiogenomics
+0.39,CL,NSCLC-Radiogenomics
+0.556757,CL,NSCLC-Radiogenomics
+0.3975,CL,NSCLC-Radiogenomics
+0.65,CL,NSCLC-Radiogenomics
+0.614286,CL,NSCLC-Radiogenomics
+0.72,CL,NSCLC-Radiogenomics
+0.567568,CL,NSCLC-Radiogenomics
+0.4425,CL,NSCLC-Radiogenomics
+0.655556,CL,NSCLC-Radiogenomics
+0.421429,CL,NSCLC-Radiogenomics
+0.562189055,IM,NSCLC-Radiogenomics
+0.595555556,IM,NSCLC-Radiogenomics
+0.598425197,IM,NSCLC-Radiogenomics
+0.539267016,IM,NSCLC-Radiogenomics
+0.485074627,IM,NSCLC-Radiogenomics
+0.547263682,IM,NSCLC-Radiogenomics
+0.611111111,IM,NSCLC-Radiogenomics
+0.57480315,IM,NSCLC-Radiogenomics
+0.560209424,IM,NSCLC-Radiogenomics
+0.432835821,IM,NSCLC-Radiogenomics
+0.55721393,IM,NSCLC-Radiogenomics
+0.744444444,IM,NSCLC-Radiogenomics
+0.559055118,IM,NSCLC-Radiogenomics
+0.570680628,IM,NSCLC-Radiogenomics
+0.529850746,IM,NSCLC-Radiogenomics
+0.631840796,IM,NSCLC-Radiogenomics
+0.7,IM,NSCLC-Radiogenomics
+0.622047244,IM,NSCLC-Radiogenomics
+0.544502618,IM,NSCLC-Radiogenomics
+0.373134328,IM,NSCLC-Radiogenomics
+0.55721393,IM,NSCLC-Radiogenomics
+0.7,IM,NSCLC-Radiogenomics
+0.622047244,IM,NSCLC-Radiogenomics
+0.602094241,IM,NSCLC-Radiogenomics
+0.47761194,IM,NSCLC-Radiogenomics
+0.537313433,IM + CL,NSCLC-Radiogenomics
+0.788888889,IM + CL,NSCLC-Radiogenomics
+0.590551181,IM + CL,NSCLC-Radiogenomics
+0.612565445,IM + CL,NSCLC-Radiogenomics
+0.495522388,IM + CL,NSCLC-Radiogenomics
+0.487562189,IM + CL,NSCLC-Radiogenomics
+0.744444444,IM + CL,NSCLC-Radiogenomics
+0.62992126,IM + CL,NSCLC-Radiogenomics
+0.565445026,IM + CL,NSCLC-Radiogenomics
+0.480597015,IM + CL,NSCLC-Radiogenomics
+0.507462687,IM + CL,NSCLC-Radiogenomics
+0.755555556,IM + CL,NSCLC-Radiogenomics
+0.68503937,IM + CL,NSCLC-Radiogenomics
+0.570680628,IM + CL,NSCLC-Radiogenomics
+0.485074627,IM + CL,NSCLC-Radiogenomics
+0.71,IM + CL,NSCLC-Radiogenomics
+0.480874317,IM + CL,NSCLC-Radiogenomics
+0.531914894,IM + CL,NSCLC-Radiogenomics
+0.634146341,IM + CL,NSCLC-Radiogenomics
+0.597014925,IM + CL,NSCLC-Radiogenomics
+0.68,IM + CL,NSCLC-Radiogenomics
+0.486338798,IM + CL,NSCLC-Radiogenomics
+0.579787234,IM + CL,NSCLC-Radiogenomics
+0.62195122,IM + CL,NSCLC-Radiogenomics
+0.589552239,IM + CL,NSCLC-Radiogenomics
+0.56,GE,NSCLC-Radiogenomics
+0.513661202,GE,NSCLC-Radiogenomics
+0.457446809,GE,NSCLC-Radiogenomics
+0.481707317,GE,NSCLC-Radiogenomics
+0.582089552,GE,NSCLC-Radiogenomics
+0.51,GE,NSCLC-Radiogenomics
+0.49726776,GE,NSCLC-Radiogenomics
+0.446808511,GE,NSCLC-Radiogenomics
+0.463414634,GE,NSCLC-Radiogenomics
+0.582089552,GE,NSCLC-Radiogenomics
+0.56,GE,NSCLC-Radiogenomics
+0.513661202,GE,NSCLC-Radiogenomics
+0.457446809,GE,NSCLC-Radiogenomics
+0.481707317,GE,NSCLC-Radiogenomics
+0.597014925,GE,NSCLC-Radiogenomics
+0.5,GE,NSCLC-Radiogenomics
+0.535519126,GE,NSCLC-Radiogenomics
+0.473404255,GE,NSCLC-Radiogenomics
+0.469512195,GE,NSCLC-Radiogenomics
+0.604477612,GE,NSCLC-Radiogenomics
+0.58,GE,NSCLC-Radiogenomics
+0.49726776,GE,NSCLC-Radiogenomics
+0.441489362,GE,NSCLC-Radiogenomics
+0.475609756,GE,NSCLC-Radiogenomics
+0.552238806,GE,NSCLC-Radiogenomics
+0.512820513,GE + CL,NSCLC-Radiogenomics
+0.693023256,GE + CL,NSCLC-Radiogenomics
+0.71978022,GE + CL,NSCLC-Radiogenomics
+0.64516129,GE + CL,NSCLC-Radiogenomics
+0.465608466,GE + CL,NSCLC-Radiogenomics
+0.564102564,GE + CL,NSCLC-Radiogenomics
+0.56744186,GE + CL,NSCLC-Radiogenomics
+0.384615385,GE + CL,NSCLC-Radiogenomics
+0.540322581,GE + CL,NSCLC-Radiogenomics
+0.62962963,GE + CL,NSCLC-Radiogenomics
+0.403846154,GE + CL,NSCLC-Radiogenomics
+0.602325581,GE + CL,NSCLC-Radiogenomics
+0.428571429,GE + CL,NSCLC-Radiogenomics
+0.524193548,GE + CL,NSCLC-Radiogenomics
+0.53968254,GE + CL,NSCLC-Radiogenomics
+0.544871795,GE + CL,NSCLC-Radiogenomics
+0.602325581,GE + CL,NSCLC-Radiogenomics
+0.41978022,GE + CL,NSCLC-Radiogenomics
+0.467741935,GE + CL,NSCLC-Radiogenomics
+0.46031746,GE + CL,NSCLC-Radiogenomics
+0.487179487,GE + CL,NSCLC-Radiogenomics
+0.474418605,GE + CL,NSCLC-Radiogenomics
+0.707692308,GE + CL,NSCLC-Radiogenomics
+0.435483871,GE + CL,NSCLC-Radiogenomics
+0.634920635,GE + CL,NSCLC-Radiogenomics
+0.782051282,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.711111111,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.814606742,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.626760563,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.651612903,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.762820513,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.718518519,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.825842697,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.626760563,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.638709677,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.697484277,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.686299213,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.701219512,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.795918367,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.798850575,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.726582278,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.694516129,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.692178771,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.805194805,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.720588235,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.801282051,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.691111111,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.764044944,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.718309859,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.696774194,IM + GE + CL (H-VAE-Cox model),NSCLC-Radiogenomics
+0.83,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.67027,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.7475,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.744444,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.678571,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.8,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.654054,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.7525,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.851111,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.75,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.82,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.732432,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.79,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.744444,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.728571,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.79,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.743243,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.7525,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.733333,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.807143,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.79,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.7,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.755,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.75,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.8,IM + GE + CL (X-VAE-Cox model),NSCLC-Radiogenomics
+0.487425989,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.487425989,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.591067507,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.649463611,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.713100654,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.713100654,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.77350287,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.627649945,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.534035525,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.534035525,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.644634482,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.6334674,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.446609536,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.446609536,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.541669659,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.738246558,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.57643191,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.57643191,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.514959329,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.583581036,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.57643191,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.57643191,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.514959329,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.583581036,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.572457441,IM + GE + CL (DCM model),NSCLC-Radiogenomics
+0.559006211,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.568862275,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.512658228,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.630573248,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.534351145,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.72611465,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.466666667,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.662921348,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.548951049,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.664516129,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.444444444,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.738095238,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.63253012,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.724832215,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.5,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.458041958,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.529411765,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.734375,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.459119497,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.608433735,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.559006211,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.568862275,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.512658228,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.630573248,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.534351145,IM + GE + CL (Pycox model),NSCLC-Radiogenomics
+0.728175,LUAD (X-VAE-Cox model),TCGA
+0.656746,LUAD (X-VAE-Cox model),TCGA
+0.670635,LUAD (X-VAE-Cox model),TCGA
+0.644841,LUAD (X-VAE-Cox model),TCGA
+0.640873,LUAD (X-VAE-Cox model),TCGA
+0.708333,LUAD (X-VAE-Cox model),TCGA
+0.672619,LUAD (X-VAE-Cox model),TCGA
+0.652778,LUAD (X-VAE-Cox model),TCGA
+0.625,LUAD (X-VAE-Cox model),TCGA
+0.700397,LUAD (X-VAE-Cox model),TCGA
+0.676587,LUAD (X-VAE-Cox model),TCGA
+0.694524,LUAD (X-VAE-Cox model),TCGA
+0.672619,LUAD (X-VAE-Cox model),TCGA
+0.69246,LUAD (X-VAE-Cox model),TCGA
+0.670635,LUAD (X-VAE-Cox model),TCGA
+0.696746,LUAD (X-VAE-Cox model),TCGA
+0.674603,LUAD (X-VAE-Cox model),TCGA
+0.672619,LUAD (X-VAE-Cox model),TCGA
+0.706825,LUAD (X-VAE-Cox model),TCGA
+0.656746,LUAD (X-VAE-Cox model),TCGA
+0.714524,LUAD (X-VAE-Cox model),TCGA
+0.686508,LUAD (X-VAE-Cox model),TCGA
+0.674603,LUAD (X-VAE-Cox model),TCGA
+0.652778,LUAD (X-VAE-Cox model),TCGA
+0.636905,LUAD (X-VAE-Cox model),TCGA
+0.688785,LUSC (X-VAE-Cox model),TCGA
+0.626168,LUSC (X-VAE-Cox model),TCGA
+0.623053,LUSC (X-VAE-Cox model),TCGA
+0.613707,LUSC (X-VAE-Cox model),TCGA
+0.732399,LUSC (X-VAE-Cox model),TCGA
+0.698131,LUSC (X-VAE-Cox model),TCGA
+0.626168,LUSC (X-VAE-Cox model),TCGA
+0.626168,LUSC (X-VAE-Cox model),TCGA
+0.616822,LUSC (X-VAE-Cox model),TCGA
+0.595016,LUSC (X-VAE-Cox model),TCGA
+0.629283,LUSC (X-VAE-Cox model),TCGA
+0.6919,LUSC (X-VAE-Cox model),TCGA
+0.6919,LUSC (X-VAE-Cox model),TCGA
+0.58567,LUSC (X-VAE-Cox model),TCGA
+0.66822,LUSC (X-VAE-Cox model),TCGA
+0.732399,LUSC (X-VAE-Cox model),TCGA
+0.619938,LUSC (X-VAE-Cox model),TCGA
+0.629283,LUSC (X-VAE-Cox model),TCGA
+0.720238,LUSC (X-VAE-Cox model),TCGA
+0.616822,LUSC (X-VAE-Cox model),TCGA
+0.626168,LUSC (X-VAE-Cox model),TCGA
+0.703863,LUSC (X-VAE-Cox model),TCGA
+0.595016,LUSC (X-VAE-Cox model),TCGA
+0.710317,LUSC (X-VAE-Cox model),TCGA
+0.629283,LUSC (X-VAE-Cox model),TCGA
+0.700763,LUAD (H-VAE-Cox model),TCGA
+0.680264,LUAD (H-VAE-Cox model),TCGA
+0.626792,LUAD (H-VAE-Cox model),TCGA
+0.67856,LUAD (H-VAE-Cox model),TCGA
+0.528563,LUAD (H-VAE-Cox model),TCGA
+0.576602,LUAD (H-VAE-Cox model),TCGA
+0.602346,LUAD (H-VAE-Cox model),TCGA
+0.72053,LUAD (H-VAE-Cox model),TCGA
+0.680162,LUAD (H-VAE-Cox model),TCGA
+0.618748,LUAD (H-VAE-Cox model),TCGA
+0.556188,LUAD (H-VAE-Cox model),TCGA
+0.584599,LUAD (H-VAE-Cox model),TCGA
+0.656471,LUAD (H-VAE-Cox model),TCGA
+0.708146,LUAD (H-VAE-Cox model),TCGA
+0.527822,LUAD (H-VAE-Cox model),TCGA
+0.678127,LUAD (H-VAE-Cox model),TCGA
+0.684534,LUAD (H-VAE-Cox model),TCGA
+0.639392,LUAD (H-VAE-Cox model),TCGA
+0.690998,LUAD (H-VAE-Cox model),TCGA
+0.577804,LUAD (H-VAE-Cox model),TCGA
+0.643503,LUAD (H-VAE-Cox model),TCGA
+0.686542,LUAD (H-VAE-Cox model),TCGA
+0.675775,LUAD (H-VAE-Cox model),TCGA
+0.680791,LUAD (H-VAE-Cox model),TCGA
+0.555175,LUAD (H-VAE-Cox model),TCGA
+0.551754,LUSC (H-VAE-Cox model),TCGA
+0.61435,LUSC (H-VAE-Cox model),TCGA
+0.603326,LUSC (H-VAE-Cox model),TCGA
+0.608552,LUSC (H-VAE-Cox model),TCGA
+0.637088,LUSC (H-VAE-Cox model),TCGA
+0.564664,LUSC (H-VAE-Cox model),TCGA
+0.583687,LUSC (H-VAE-Cox model),TCGA
+0.581249,LUSC (H-VAE-Cox model),TCGA
+0.585705,LUSC (H-VAE-Cox model),TCGA
+0.659339,LUSC (H-VAE-Cox model),TCGA
+0.545034,LUSC (H-VAE-Cox model),TCGA
+0.520356,LUSC (H-VAE-Cox model),TCGA
+0.599338,LUSC (H-VAE-Cox model),TCGA
+0.593746,LUSC (H-VAE-Cox model),TCGA
+0.652398,LUSC (H-VAE-Cox model),TCGA
+0.549442,LUSC (H-VAE-Cox model),TCGA
+0.608755,LUSC (H-VAE-Cox model),TCGA
+0.619686,LUSC (H-VAE-Cox model),TCGA
+0.585937,LUSC (H-VAE-Cox model),TCGA
+0.637771,LUSC (H-VAE-Cox model),TCGA
+0.554815,LUSC (H-VAE-Cox model),TCGA
+0.620502,LUSC (H-VAE-Cox model),TCGA
+0.59792,LUSC (H-VAE-Cox model),TCGA
+0.603574,LUSC (H-VAE-Cox model),TCGA
+0.646102,LUSC (H-VAE-Cox model),TCGA
