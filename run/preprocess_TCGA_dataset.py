@@ -179,19 +179,4 @@ annotation_merged = pd.concat([Annotation_nsclc, Annotation_lusc, Annotation_lua
 rna_merged.to_csv('Data/merged_rna_seq.csv')
 annotation_merged.to_csv('Data/annotation_merged.csv')
 
-# %%
 
-bn_all_rna = pd.read_csv(r'Data/batch_effect_normalised_RNAseq.csv', index_col=0)
-
-nsclc_rna = pd.read_csv('Data/sorted_RNA_Seq.csv', index_col=0)
-lusc = pd.read_csv('Data/TCGA_LUSC_RNA_seq.csv', index_col=0)
-luad = pd.read_csv('Data/TCGA_LUAD_RNA_seq.csv', index_col=0)
-
-be_normalised_nsclc = bn_all_rna[bn_all_rna.index.isin(nsclc_rna.index)]
-be_normalised_lusc = bn_all_rna[bn_all_rna.index.isin(lusc.index)]
-be_normalised_luad = bn_all_rna[bn_all_rna.index.isin(luad.index)]
-
-
-be_normalised_nsclc.to_csv(r'Data/batch_normalised_nsclc_rna.csv')
-be_normalised_lusc.to_csv(r'Data/batch_normalised_tcga_lusc_rna.csv')
-be_normalised_luad.to_csv(r'Data/batch_normalised_tcga_luad_rna.csv')
