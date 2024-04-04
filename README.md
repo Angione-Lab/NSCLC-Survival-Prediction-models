@@ -6,10 +6,10 @@ H-VAE-Cox and XAT-VAE-Cox are pathway-guided biologically interpretable survival
 
 Radiogenomics (CT scan images and Gene Expression) data along with clinical data are collected from TCIA and GEO. The collected data is then preprocessed. To begin with, the region of interest (ROI) i.e. tumour region is segmented using U-Net, the null values from gene expression data are removed, and the resulting data is normalised. Feature selection is performed on images, gene expression data and clinical data, and common samples from all the datasets are selected to be fed into deep learning models. 
 
-The deep learning models (H-VAE-Cox and X-VAE-Cox models) estimate the prognostic index (PI) using images, gene expression and clinical data. The results from the models are evaluated using C-index and Kaplan-Meier curves, and plotted for high and low-risk group patients. The models were interpreted using SHAP values. Finally, the significant genes identified by SHAP were biologically interpreted using KEGG and Reactome.
+The deep learning models (H-VAE-Cox and XAT-VAE-Cox models) estimate the prognostic index (PI) using images, gene expression and clinical data. The results from the models are evaluated using C-index and Kaplan-Meier curves, and plotted for high and low-risk group patients. The models were interpreted using SHAP values. Finally, the significant genes identified by SHAP were biologically interpreted using KEGG and Reactome.
 
 
-## Steps to run the H-VAE-Cox and X-VAE-Cox models for survival prediction ##
+## Steps to run the H-VAE-Cox and XAT-VAE-Cox models for survival prediction ##
 To get started, download the required data from the links provided below and save it in the appropriate folders, as detailed below.
 
 *	The raw CT scan images and segments can be downloaded from https://figshare.com/articles/dataset/NSCLC_CT_Scan_Images/17946047 . Save the CT scan images and Segments in the "Data/NSCLC_Images" folder of the project as illustrated in Figure 1.
