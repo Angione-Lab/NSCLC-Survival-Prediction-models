@@ -32,7 +32,7 @@ Note: ImageSegmentation can be skipped if you use the pre-processed ROI extracte
 Note: While performing SHAP interpretation in Step 3, please make sure the gene expression autoencoder and the image autoencoder from Step 1 are saved as .h5 so that the saved models can be reused.
 
 ## For XAT-VAE-Cox model survival prediction using CT Scan images, gene expression and clinical information ##
-Step 1: Run [run/RunXVaeCoxModel.py](https://github.com/Angione-Lab/NSCLC-Survival-Prediction-models/blob/main/run/RunXVaeCoxModel.py) for survival prediction and SHAP interpretation.
+Step 1: Run [run/RunXVaeCoxModel.py](https://github.com/Angione-Lab/NSCLC-Survival-Prediction-models/blob/main/run/RunXVaeCoxModel.py) for survival prediction, SHAP interpretation and Grad-CAM.
 
 ## For XAT-VAE-Cox model survival prediction using CT scan images and clinical information ##
 Step: Run [run/RunImageClinicalCoxModel.py] (https://github.com/Angione-Lab/NSCLC-Survival-Prediction-models/blob/main/run/RunImageClinicalCoxModel.py)
