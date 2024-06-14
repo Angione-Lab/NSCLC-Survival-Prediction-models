@@ -13,8 +13,8 @@ The deep learning models (H-VAE-Cox and XAT-VAE-Cox models) estimate the prognos
 To get started, download the required data from the links provided below and save it in the appropriate folders, as detailed below.
 
 *	The raw CT scan images and segments can be downloaded from https://figshare.com/articles/dataset/NSCLC_CT_Scan_Images/17946047 . Save the CT scan images and Segments in the "Data/NSCLC_Images" folder of the project as illustrated in Figure 1.
-* The pre-processed ROI-extracted CT scan images can be downloaded from https://figshare.com/articles/dataset/ROI_extracted_from_CT_Scan_images/17940776. Save these files in the "SavedObjects" folder of the project as illustrated in Figure 1.
-*	Download the Gene Expression, Pathway mask and clinical data from https://figshare.com/articles/dataset/Data/17941775. Save these files in the "Data" folder of the project.
+* The pre-processed ROI-extracted CT scan images can be downloaded from https://figshare.com/articles/dataset/Preprocessed_CT-scan_images_ROI_extracted_from_CT_Scan_images_/26037169. Save these files in the "SavedObjects" folder of the project as illustrated in Figure 1.
+*	Download the Gene Expression, Pathway mask and clinical data from https://figshare.com/account/projects/209842/articles/26037217. Save these files in the "Data" folder of the project.
 
 To pre-process the raw CT scan images and extract the ROI, execute  [run/U-net-ImageSegmentation.py script](https://github.com/Angione-Lab/NSCLC-Survival-Prediction-models/blob/main/run/U-net-ImageSegmentation.py)
 
